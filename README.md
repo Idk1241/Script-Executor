@@ -3,10 +3,9 @@ Source code for the [**Roblox Plugin**](https://devforum.roblox.com/t/3141932).
 
 If you find an issue, [**report it**](https://github.com/Micamaster100/Script-Executor/issues).
 
-To stay updated with the plugin, [**get it**](https://create.roblox.com/store/asset/117739697778479)
+To stay updated with the plugin, [**get it**](https://create.roblox.com/store/asset/117739697778479).
 
-To see releases, [**i dunno just click this link**](https://create.roblox.com/store/asset/117739697778479)
-
+To see releases, [**i dunno just click this link**](https://github.com/Micamaster100/Script-Executor/releases).
 # Features
 Easy script execution compared to command bar.
 
