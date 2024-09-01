@@ -1,7 +1,7 @@
 # Script-Executor
 Source code for the [**Roblox Plugin**](https://devforum.roblox.com/t/3141932).
 
-If you find an issue, [**report it**](https://github.com/Micamaster100/Script-Executor/issues).
+If you find an issue, [**report it**](https://github.com/Micamaster100/Script-Executor/issues) and maybe i'll fix it.
 
 To stay updated with the plugin, [**get it**](https://create.roblox.com/store/asset/117739697778479).
 
