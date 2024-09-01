@@ -1,2 +1,2 @@
 # Script-Executor
-this isn't beyond lol just the source
+Source code for the [Roblox Plugin](https://devforum.roblox.com/t/3141932).
