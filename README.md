@@ -6,6 +6,9 @@ If you find an issue, [**report it**](https://github.com/Micamaster100/Script-Ex
 To stay updated with the plugin, [**get it**](https://create.roblox.com/store/asset/117739697778479).
 
 To see releases, [**i dunno just click this link**](https://github.com/Micamaster100/Script-Executor/releases).
+
+this readme is kinda old i'll update it when i feel like it
+
 # Features
 Easy script execution compared to command bar.
 
