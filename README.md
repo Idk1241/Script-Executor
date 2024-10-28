@@ -7,7 +7,7 @@ To stay updated with the plugin, [**get it**](https://create.roblox.com/store/as
 
 To see releases, [**i dunno just click this link**](https://github.com/Micamaster100/Script-Executor/releases).
 
-this readme is kinda old i'll update it when i feel like it
+this readme is kinda old i'll update it when i feel like it just know now there's many more features than listed below
 
 # Features
 Easy script execution compared to command bar.
