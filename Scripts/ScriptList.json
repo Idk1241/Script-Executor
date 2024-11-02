@@ -4,9 +4,9 @@
     "Authors": ["Micamaster100"],
     "Description": "Framework for simple live character configuration."
   },
-  "Hello world!": {
-    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/HelloWorld.lua",
-    "Authors": ["Micamaster100"],
-    "Description": "Default script."
+  "Test": {
+    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/test.lua",
+    "Authors": ["Micamaster100", "not builderman"],
+    "Description": "Test Script"
   }
 }
