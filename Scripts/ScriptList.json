@@ -5,7 +5,7 @@
     "Description": "Framework for simple live character configuration."
   },
   "Test": {
-    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/refs/heads/main/Scripts/CharacterConfiguration.lua",
+    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/refs/heads/main/Scripts/test.lua",
     "Authors": ["Micamaster100", "not builderman"],
     "Description": "Test Script"
   }
