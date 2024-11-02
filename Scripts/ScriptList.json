@@ -1,5 +1,8 @@
 {
-  "Character Configuration": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/refs/heads/main/Scripts/CharacterConfiguration.lua",
+  "Character Configuration": {
+    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/refs/heads/main/Scripts/CharacterConfiguration.lua",
+    "Authors": ["Micamaster100"]
+  },
   "Test": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/refs/heads/main/Scripts/CharacterConfiguration.lua",
     "Authors": ["Micamaster100"]
