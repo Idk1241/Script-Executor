@@ -5,6 +5,6 @@
   },
   "Test": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/refs/heads/main/Scripts/CharacterConfiguration.lua",
-    "Authors": ["Micamaster100"]
+    "Authors": ["Micamaster100", "not builderman"]
   }
 }
