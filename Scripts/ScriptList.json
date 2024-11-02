@@ -2,7 +2,7 @@
   "Character Configuration": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/CharacterConfiguration.lua",
     "Authors": ["Micamaster100"],
-    "Description": "Framework for simple live character configuration."
+    "Description": "Framework for basic character configuration."
   },
   "World Greeting": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/HelloWorld.lua",
