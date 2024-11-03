@@ -1,13 +1,13 @@
 {
-  "Character Configuration": {
-    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/CharacterConfiguration.lua",
-    "Authors": ["Micamaster100"],
-    "Description": "Framework for basic character configuration."
-  },
   "Hello World!": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/HelloWorld.lua",
     "Authors": ["Micamaster100"],
     "Description": "Default script."
+  },
+  "Character Configuration": {
+    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/CharacterConfiguration.lua",
+    "Authors": ["Micamaster100"],
+    "Description": "Framework for basic character configuration."
   },
   "No Clip": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/NoClip.lua",
