@@ -4,7 +4,7 @@
     "Authors": ["Micamaster100"],
     "Description": "Framework for basic character configuration."
   },
-  "World Greeting": {
+  "Hello World!": {
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/HelloWorld.lua",
     "Authors": ["Micamaster100"],
     "Description": "Default script."
