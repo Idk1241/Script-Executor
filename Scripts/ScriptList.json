@@ -8,5 +8,10 @@
     "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/HelloWorld.lua",
     "Authors": ["Micamaster100"],
     "Description": "Default script."
+  },
+  "No Clip": {
+    "Source": "https://raw.githubusercontent.com/Micamaster100/Script-Executor/main/Scripts/NoClip.lua",
+    "Authors": ["Micamaster100"],
+    "Description": "Lets the character walk through walls."
   }
 }
